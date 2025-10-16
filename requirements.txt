@@ -1,0 +1,29 @@
+# Core
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+
+# 3D Visualisation
+plotly>=5.16
+pyvista>=0.43
+trimesh>=4.0.4
+vtk>=9.2.6  # backend de pyvista
+
+# Medical Imaging
+nibabel>=5.1
+scikit-image>=0.21
+
+# Deep Learning - IRM
+torch>=2.1.0
+monai>=1.3.0
+
+# Deep Learning - ECG
+tensorflow>=2.11
+joblib>=1.3
+
+# Web App
+streamlit>=1.27
+
+# Optional (pour debug & dev)
+matplotlib>=3.7
+seaborn>=0.12

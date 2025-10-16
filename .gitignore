@@ -1,0 +1,20 @@
+# Ignorer les données lourdes et sensibles
+data/
+
+# Ignorer les environnements virtuels
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers temporaires ou de log
+*.log
+*.tmp
+.DS_Store
+
+# Cache Streamlit
+.streamlit/
+
+# Dossiers temporaires
+temp/
+temp_input/
+uploaded_data/
