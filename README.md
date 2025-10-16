@@ -97,5 +97,5 @@ Ce projet est distribué sous licence MIT, sauf pour les éléments du dossier d
 
 Hadi Benharrat
 📧 Contact : [hadi.bnh00@gmail.com]
-🧩 GitHub : https://github.com/02.kuro
+🧩 GitHub : https://github.com/02-kuro
 
